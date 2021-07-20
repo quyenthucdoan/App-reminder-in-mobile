@@ -1,6 +1,6 @@
 Link driver: https://drive.google.com/drive/u/2/folders/1FjT23zEcT6T_Si-dj4s5IcfTpCjED2R_
 
-#Features:
+# Features:
 
 App to do list gồm các chức năng chính như sau:
 - Tạo công việc
@@ -13,23 +13,23 @@ App to do list gồm các chức năng chính như sau:
 - Java
 - Javascript
 
-##Các phần mềm sử dụng:
+## Các phần mềm sử dụng:
 - Nodejs
 - MongoDB Compass 
 - MongoDB Atlas Cloud Database
 - Visual Code
 - Android Studio
 
-##Công nghệ sử dụng:
+## Công nghệ sử dụng:
 - Phía client: dùng Android thiết kế giao diện và client
 - Phía server: dùng Visual Code để code realtime (socket.io) và  server
 - Lưu trữ dữ liệu trên MongoDB Atlas Cloud Database đảm bảo có thể lấy dữ liệu ở bất kì đâu.
 
-##Installation:
+## Installation:
 - Download Server_code.rar
 - Download Client_code.rar
 
-##Set up:
+## Set up:
 - Cài đặt MongoDB Compass:
 	+ Truy cập vào link https://account.mongodb.com/account và đăng nhập( username: louisnguyen012z@gmail.com; password: Nguyenducanh12)
 	+ Vào tab Network Access > Click "Add IP address" > Thêm địa chỉ wifi máy bạn > Confirm > Chờ đến khi active
